@@ -21,7 +21,7 @@
 1. 이 리포지토리를 클론하여 본인의 문제 풀이를 업로드합니다:
 
    ```bash
-   git clone https://github.com/yourusername/SW-Competency-Test.git
+   git clone https://github.com/booststdev/SW-Competency-Test.git
    ```
 
 2. 각 문제를 해결한 후, **문제 번호**를 기준으로 폴더를 생성합니다.
